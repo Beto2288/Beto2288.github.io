@@ -18,12 +18,12 @@ avatar: https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p160x160/1510514_101524195
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:albertohernandez2288@gmail.com
+  email: albertohernandez2288@gmail.com
   facebook:
   flickr:
   github: Beto2288
   instagram:
-  linkedin:https://www.linkedin.com/in/alberto-hernandez-4b24a434/
+  linkedin: https://www.linkedin.com/in/alberto-hernandez-4b24a434/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://beto2288.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
