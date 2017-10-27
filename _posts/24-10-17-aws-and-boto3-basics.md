@@ -18,9 +18,9 @@ After you setup your environment you can check is all is configured running the 
 
 `Where the yellow part is the instance ID of your EC2 instance.`
 
-### Examples of how to use some basics scripts:
+## Examples of how to use some basics scripts:
 
-## List Instances:
+### List Instances:
 
 ---
 
@@ -32,7 +32,7 @@ Results:
 
 
 
-## Create an Instance:**
+### Create an Instance:**
 
 ---
 
@@ -46,7 +46,7 @@ Results:
 
 
 
-**Terminate an Instance:**
+## Terminate an Instance:
 
 ---
 
@@ -62,7 +62,7 @@ Results:
 
 
 
-**Checking status of the instances:**
+## Checking status of the instances:
 
 ---
 
@@ -74,7 +74,7 @@ Results:
 
 
 
-**Create a Bucket**
+## Create a Bucket:
 
 ---
 
@@ -88,7 +88,7 @@ For this case we need to define the name of the bucket due to the restrictions a
 
 
 
-**Just playing...**
+## Just playing...
 
 ---
 
