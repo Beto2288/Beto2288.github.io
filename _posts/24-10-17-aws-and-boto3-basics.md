@@ -22,11 +22,11 @@ After you setup your environment you can check is all is configured running the 
 
 **List Instances:**
 
-![_config.yml]({{ site.baseurl }}/images/List_instances_1.png)
+![alt text]![_config.yml]({{ site.baseurl }}/images/List_instaces_1.png)
 
 **Results:**
 
-![_config.yml]({{ site.baseurl }}/images/List_instaces_2.png)
+![alt text]![_config.yml]({{ site.baseurl }}/images/List_instaces_2.png)
 
 **Create an Instance:**
 
