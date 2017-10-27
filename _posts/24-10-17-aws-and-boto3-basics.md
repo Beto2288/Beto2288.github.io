@@ -32,7 +32,7 @@ Results:
 
 
 
-### Create an Instance:**
+### Create an Instance:
 
 ---
 
@@ -102,6 +102,7 @@ This script will create an instance and wait until change the state to running, 
 
 
 ![_config.yml]({{ site.baseurl }}/images/Combine_script3.png)
+
 
 
 ![_config.yml]({{ site.baseurl }}/images/Combine_script4.png)
