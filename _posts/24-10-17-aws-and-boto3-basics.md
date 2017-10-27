@@ -18,9 +18,9 @@ After you setup your environment you can check is all is configured running the 
 
 `Where the yellow part is the instance ID of your EC2 instance.`
 
-## Examples of how to use some basics scripts:
+### Examples of how to use some basics scripts:
 
-**List Instances:**
+## List Instances:
 
 ---
 
@@ -32,7 +32,7 @@ Results:
 
 
 
-**Create an Instance:**
+## Create an Instance:**
 
 ---
 
