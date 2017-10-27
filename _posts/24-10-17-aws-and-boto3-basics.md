@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basics about AWS and boto3
+title: Quick Start with Boto3 and AWS
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
