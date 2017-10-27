@@ -22,11 +22,11 @@ After you setup your environment you can check is all is configured running the 
 
 **List Instances:**
 
-![alt text]![_config.yml]({{ site.baseurl }}/images/List_instaces_1.png)
+![_config.yml]({{ site.baseurl }}/images/List_instances_1_1.png)
 
 **Results:**
 
-![alt text]![_config.yml]({{ site.baseurl }}/images/List_instaces_2.png)
+![_config.yml]({{ site.baseurl }}/images/List_instaces_2.png)
 
 **Create an Instance:**
 
@@ -42,7 +42,7 @@ After you setup your environment you can check is all is configured running the 
 
 ![_config.yml]({{ site.baseurl }}/images/Terminated_instances_1.png)
 
-In this case the ID is our input for the`terminate_instance.py`script
+In this case the ID is our input for the `terminate_instance.py` script.
 
 ![_config.yml]({{ site.baseurl }}/images/Terminated_instances_2.png)
 
