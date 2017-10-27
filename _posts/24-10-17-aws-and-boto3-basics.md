@@ -82,10 +82,8 @@ For this case we need to define the name of the bucket due to the restrictions a
 
 ![_config.yml]({{ site.baseurl }}/images/Create_bucket3.png)
 
-::: Warning
-**Just playing...** 8-)
 
-:::
+> **Just playing...**
 
 ---
 
@@ -106,6 +104,6 @@ This script will create an instance and wait until change the state to running, 
 
 In conclusion boto3 can help you if you want to automate your AWS environment, in my particularly opinion it's a great way to maintain your cloud environment well managed.
 
-Link of the python scripts:
+Link for the python scripts:
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
