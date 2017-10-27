@@ -21,7 +21,9 @@ After you setup your environment you can check is all is configured running the 
 ## Examples of how to use some basics scripts:
 
 **List Instances:**
-------
+
+---
+
 ![_config.yml]({{ site.baseurl }}/images/List_instances_1_1.png)
 
 Results:
@@ -29,6 +31,8 @@ Results:
 ![_config.yml]({{ site.baseurl }}/images/List_instaces_2.png)
 
 **Create an Instance:**
+
+---
 
 ![_config.yml]({{ site.baseurl }}/images/Create_instance_1_1.png)
 
@@ -56,7 +60,7 @@ Results:
 
 Results:
 
-![_config.yml]({{ site.baseurl }}/images/Checking_status_instances_2.png)
+![_config.yml]({{ site.baseurl }}/images/Checking_status_instances_2_2.png)
 
 **Create a Bucket**
 
@@ -77,7 +81,11 @@ This script will create an instance and wait until change the state to running, 
 
 ![_config.yml]({{ site.baseurl }}/images/Combine_script2.png)
 
+
 ![_config.yml]({{ site.baseurl }}/images/Combine_script3.png)
+
 
 ![_config.yml]({{ site.baseurl }}/images/Combine_script4.png)
 
+
+In conclusion boto3 can help you if you want to automate your AWS environment, in my particularly opinion it's a great way to maintain your cloud environment well managed.
