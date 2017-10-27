@@ -82,7 +82,7 @@ For this case we need to define the name of the bucket due to the restrictions a
 
 ![_config.yml]({{ site.baseurl }}/images/Create_bucket3.png)
 
-:::Warning
+::: Warning
 **Just playing... 8-)**
 :::
 
