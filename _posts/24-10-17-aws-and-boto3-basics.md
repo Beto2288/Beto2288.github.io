@@ -21,7 +21,7 @@ After you setup your environment you can check is all is configured running the 
 ## Examples of how to use some basics scripts:
 
 **List Instances:**
-
+------
 ![_config.yml]({{ site.baseurl }}/images/List_instances_1_1.png)
 
 Results:
