@@ -52,4 +52,32 @@ Results:
 
 **Checking status of the instances:**
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_config.yml]({{ site.baseurl }}/images/Checking_status_instances_1.png)
+
+Results:
+
+![_config.yml]({{ site.baseurl }}/images/Checking_status_instances_2.png)
+
+**Create a Bucket**
+
+![_config.yml]({{ site.baseurl }}/images/Create_bucket1.png)
+
+For this case we need to define the name of the bucket due to the restrictions and limitations of S3 (*Bucket names must be globally unique and, Bucket names must follow DNS naming conventions*).
+
+![_config.yml]({{ site.baseurl }}/images/Create_bucket2.png)
+
+![_config.yml]({{ site.baseurl }}/images/Create_bucket3.png)
+
+
+There are a lot of ways to create different scripts, and every person will create and adapt the scripts based on their necessity. As last example here is one that I’ve made just playing with this:
+
+![_config.yml]({{ site.baseurl }}/images/Combine_script1.png)
+
+This script will create an instance and wait until change the state to running, then create one file with the details of the instance and also it’s uploaded to our S3 bucket.
+
+![_config.yml]({{ site.baseurl }}/images/Combine_script2.png)
+
+![_config.yml]({{ site.baseurl }}/images/Combine_script3.png)
+
+![_config.yml]({{ site.baseurl }}/images/Combine_script4.png)
+
