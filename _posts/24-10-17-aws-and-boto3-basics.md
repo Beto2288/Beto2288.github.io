@@ -30,6 +30,7 @@ Results:
 
 ![_config.yml]({{ site.baseurl }}/images/List_instaces_2.png)
 
+
 **Create an Instance:**
 
 ---
@@ -42,7 +43,10 @@ Results:
 
 ![_config.yml]({{ site.baseurl }}/images/Create_instance_3.png)
 
+
 **Terminate an Instance:**
+
+---
 
 ![_config.yml]({{ site.baseurl }}/images/Terminated_instances_1.png)
 
@@ -54,6 +58,7 @@ Results:
 
 ![_config.yml]({{ site.baseurl }}/images/Terminated_instances_3.png)
 
+
 **Checking status of the instances:**
 
 ![_config.yml]({{ site.baseurl }}/images/Checking_status_instances_1.png)
@@ -62,7 +67,10 @@ Results:
 
 ![_config.yml]({{ site.baseurl }}/images/Checking_status_instances_2_2.png)
 
+
 **Create a Bucket**
+
+---
 
 ![_config.yml]({{ site.baseurl }}/images/Create_bucket1.png)
 
@@ -72,6 +80,9 @@ For this case we need to define the name of the bucket due to the restrictions a
 
 ![_config.yml]({{ site.baseurl }}/images/Create_bucket3.png)
 
+**Just playing...**
+
+---
 
 There are a lot of ways to create different scripts, and every person will create and adapt the scripts based on their necessity. As last example here is one that I’ve made just playing with this:
 
@@ -89,3 +100,7 @@ This script will create an instance and wait until change the state to running, 
 
 
 In conclusion boto3 can help you if you want to automate your AWS environment, in my particularly opinion it's a great way to maintain your cloud environment well managed.
+
+Link of the python scripts:
+
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
